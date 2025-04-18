@@ -6,7 +6,7 @@
 
 Bridging materials science and computational methods to develop next-generation sustainable technologies. I research high entropy perovskites, environmental remediation materials, and build automated systems for materials characterization.
 
-- 🔬 Currently: PhD Researcher at Jadavpur University, exploring black titania synthesis and high entropy materials
+- 🔬 Currently: PhD Researcher, exploring black titania synthesis and high entropy materials
 - 🛠️ Built: Automated data acquisition systems for thermoelectric property measurements
 - 🧪 Discovered: Two new configurational high entropy perovskites with superior thermoelectric properties
 - 🌱 Working on: Environmental remediation systems for pharmaceutical pollutants (diclofenac, sulfamethoxazole)
