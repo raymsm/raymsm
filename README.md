@@ -29,5 +29,5 @@ Bridging materials science and computational methods to develop next-generation 
 ## Connect With Me
 
 - 📫 Email: hello@raymsm.com
-- 🔗 LinkedIn: ## update soon
-- 🏛️ Research Profile: ## update soon
+- 🔗 LinkedIn: https://www.linkedin.com/in/raymsm/
+- 🏛️ Research Profile: ##update soon
